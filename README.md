@@ -1,8 +1,8 @@
 ###This project is described in: Stefan Niekamp<sup>1,2</sup>, Jongmin Sung<sup>1,2</sup>, Walter Huynh<sup>1,2</sup>, Gira Bhabha<sup>3,4</sup>, Ronald D. Vale<sup>1,2</sup>, Nico Stuurman<sup>1,2</sup> (2018). High accuracy measurements of nanometer-scale distances between fluorophores at the single-molecule level, [BioRxiv](https://doi.org/10.1101/234740)
 
-<sup>1</sup>aDepartment of Cellular and Molecular Pharmacology, University of California, San Francisco, CA 94158
+<sup>1</sup>Department of Cellular and Molecular Pharmacology, University of California, San Francisco, CA 94158
 
-<sup>2</sup>bHoward Hughes Medical Institute, University of California, San Francisco, CA 94158
+<sup>2</sup>Howard Hughes Medical Institute, University of California, San Francisco, CA 94158
 
 <sup>3</sup>Skirball Institute of Biomolecular Medicine, New York University School of Medicine, New York, NY 10016
 
